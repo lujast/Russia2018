@@ -1,6 +1,6 @@
 ﻿namespace Russia2018.Domain
 {
-    public class Player : Person
+    public class Coach : Person
     {
         public virtual Team Team { get; set; }
     }
